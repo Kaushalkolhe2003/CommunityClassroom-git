@@ -1,1 +1,2 @@
-Hi Kaushal we have started working on  project  
+Hi Kaushal we have started working on  project .
+We will work on java servlet and jsp project which will be the base learning platform .
